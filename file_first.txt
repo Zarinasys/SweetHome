@@ -1,1 +1,2 @@
  bla bla bla
+Adding some new features to the file
